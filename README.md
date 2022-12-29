@@ -1,2 +1,2 @@
-### Hi there!
-啥都不会
+### Hi there👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Msyial&show_icons=true&theme=radical)
